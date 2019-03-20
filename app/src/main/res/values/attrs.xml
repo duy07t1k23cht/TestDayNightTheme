@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ds">
+        <attr name="mBackgroundColor" format="color" />
+        <attr name="mTextColor" format="color" />
+        <attr name="mButtonColor" format="color" />
+    </declare-styleable>
+
+</resources>
